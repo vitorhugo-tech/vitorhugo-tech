@@ -13,9 +13,6 @@ Valorizo código limpo, times colaborativos e projetos que fazem sentido. Estou 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
 ### Bancos de dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -31,8 +28,6 @@ Valorizo código limpo, times colaborativos e projetos que fazem sentido. Estou 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -43,11 +38,3 @@ Valorizo código limpo, times colaborativos e projetos que fazem sentido. Estou 
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](http://github-profile-summary-cards-esqvyd9su.vercel.app/api/cards/profile-details?username=vitorhugo-tech&theme=dracula)
-<img src="http://github-profile-summary-cards-esqvyd9su.vercel.app/api/cards/repos-per-language?username=vitorhugo-tech&theme=dracula" alt="Linguagens" />
-<img src="http://github-profile-summary-cards-esqvyd9su.vercel.app/api/cards/most-commit-language?username=vitorhugo-tech&theme=dracula" alt="Linguagens mais utilizadas" />
-<img src="http://github-profile-summary-cards-esqvyd9su.vercel.app/api/cards/stats?username=vitorhugo-tech&theme=dracula" alt="Estatísticas" />
-<img src="http://github-profile-summary-cards-esqvyd9su.vercel.app/api/cards/productive-time?username=vitorhugo-tech&theme=dracula&utcOffset=-3" alt="Tempo de produtividade" />
